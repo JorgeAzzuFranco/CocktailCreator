@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:cocktail_creator/src/pages/page_homepage.dart';
+import 'package:cocktail_creator/src/pages/page_mainpage.dart';
 
 class CocktailCreatorApp extends StatelessWidget {
   @override
